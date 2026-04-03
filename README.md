@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ngmanh2509&" alt="ngmanh2509" />
 
-Hi everyone, I'm Manh! 👋
-I'm an amateur front-end designer, but my true expertise lies in back-end development. 
+Hi everyone, I'm Manh! 👋<br>
+I'm an amateur front-end designer, but my true expertise lies in back-end development.<br>
 I have an endless passion for music—especially J-Pop and K-Pop—which is why you'll often find musical elements woven into my projects.
 
 <br><br>
