@@ -1,9 +1,8 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ngmanh2509&" alt="ngmanh2509" />
 
-👋 Hi there!
-
-I'm a code lover and always chasing for clean code and comfortable interfaces. 
-For me, programming is equal parts problem-solving and aesthetics. Always geeking out about tech that feels as good to use as it does to build.
+Hi everyone, I'm Manh! 👋
+I'm an amateur front-end designer, but my true expertise lies in back-end development. 
+I have an endless passion for music—especially J-Pop and K-Pop—which is why you'll often find musical elements woven into my projects.
 
 <br><br>
 
