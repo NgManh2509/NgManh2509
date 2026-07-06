@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/29704340/README.md)<div align="center">
+[README (1).md](https://github.com/user-attachments/files/29704689/README.1.md)
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=250&section=header&text=Welcome%20To%20My%20Workspace&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header Background" />
 
@@ -17,19 +18,19 @@
 <br/>
 
 <p align="center">
-  <a href="#">
+  <a href="https://s2uvn.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&border=38BDF8" alt="Portfolio"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mxnhedit1234@example.com">
+  <a href="mailto:mxnhedit@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=38BDF8" alt="Email"/>
   </a>
   <a href="https://github.com/NgManh2509">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/NguyenManh1234/">
+  <a href="https://leetcode.com/NguyenManh1234">
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
 </p>
@@ -185,8 +186,8 @@
 
 <div align="center">
   <br/>
-  <a href="https://leetcode.com/NguyenManh1234/">
-    <img src="https://leetcard.jacoblin.cool/your-leetcode?theme=dark&font=Inter&ext=heatmap&bg=0D1117&border=0" alt="LeetCode Stats" width="60%" />
+  <a href="https://leetcode.com/NguyenManh1234">
+    <img src="https://leetcard.jacoblin.cool/NguyenManh1234?theme=dark&font=Inter&ext=heatmap&bg=0D1117&border=0" alt="LeetCode Stats" width="60%" />
   </a>
   <br/>
 </div>
