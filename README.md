@@ -169,7 +169,6 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NgManh2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="GitHub Stats" width="48%" />
   <img
     src="https://streak-stats.demolab.com?user=NgManh2509&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=8B949E"
     alt="GitHub Streak"
