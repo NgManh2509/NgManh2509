@@ -17,19 +17,19 @@
 <br/>
 
 <p align="center">
-  <a href="https://your-portfolio.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&border=38BDF8" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mxnhedit1234@example.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=38BDF8" alt="Email"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/NgManh2509">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode">
+  <a href="https://leetcode.com/u/NguyenManh1234/">
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
 </p>
@@ -168,11 +168,11 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NgManh2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgManh2509&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgManh2509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NgManh2509&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8" alt="Activity Graph" width="48%" />
   <br/><br/>
 </div>
 
@@ -228,5 +228,5 @@
     <b>Thank you for visiting my profile!</b>
   </p>
   
-  <img src="https://profile-counter.glitch.me/your-username/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/NgManh2509/count.svg" alt="Visitor Count" />
 </div>
