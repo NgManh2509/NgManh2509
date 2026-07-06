@@ -169,7 +169,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NgManh2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NgManh2509&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgManh2509&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgManh2509&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" width="48%" />
