@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30313717/README.md)
+[Uploading README.md…]()
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    HERO — HEADER BANNER                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
@@ -129,11 +129,11 @@ I'm a developer who sits at the intersection of **design and engineering** — e
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,react,js,tailwind&theme=dark" alt="Frontend" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring&theme=dark" alt="Backend" />
 
 **Databases**
 
@@ -164,10 +164,6 @@ I'm a developer who sits at the intersection of **design and engineering** — e
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NgManh2509&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=8B949E" width="60%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NgManh2509&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
 
