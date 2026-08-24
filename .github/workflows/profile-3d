@@ -13,9 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          # A PAT (Personal Access Token) with `repo` scope is required.
-          # Add it as a repository secret named TOKEN:
-          # Settings → Secrets and variables → Actions → New repository secret
           token: ${{ secrets.TOKEN }}
 
       - name: Write settings.json
