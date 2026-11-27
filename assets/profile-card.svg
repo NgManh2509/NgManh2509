@@ -226,139 +226,180 @@
     <text x="691" y="549" text-anchor="middle" class="pill">DEVOPS &amp; GIT</text>
   </g>
 
-  <!-- ==================== 5. SKILLS (periodic-table tiles) ==================== -->
+  <!-- ==================== 5. SKILLS (authentic tech vector logos) ==================== -->
   <g transform="translate(72, 538)">
     <text x="0" y="16" class="label">[ SKILLS ]</text>
     <line x1="0" y1="24" x2="116" y2="24" stroke="#181A1F" stroke-width="1.2" />
 
-    <!-- Row 1 -->
+    <!-- Row 1: BACKEND (Java, Spring, Python, Kotlin) -->
     <g transform="translate(0, 34)">
       <rect x="0" y="7" width="88" height="24" rx="5" fill="#EEF3F8" stroke="#181A1F"
         stroke-width="1.2" />
       <text x="44" y="23" text-anchor="middle" class="cat">BACKEND</text>
       <g transform="translate(106, 0)">
         <g class="r1">
+          <!-- Java -->
           <g transform="translate(0,0)">
-            <rect width="38" height="38" rx="6" fill="#A7D8F5" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">01</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Ja</text>
+            <rect width="38" height="38" rx="6" fill="#FAF8F5" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M17.5 16 C15 13.5 20.5 11.5 18 8" fill="none" stroke="#E76F00" stroke-width="1.8" stroke-linecap="round" />
+            <path d="M21.5 15.5 C19.8 13.5 23.8 11.8 21.8 9.2" fill="none" stroke="#E76F00" stroke-width="1.6" stroke-linecap="round" />
+            <path d="M11 18.5 H24.5 V23.5 C24.5 26.3 22 28 17.8 28 C13.5 28 11 26.3 11 23.5 Z" fill="#5382A1" />
+            <path d="M24.5 19.5 H27.2 C28.6 19.5 29.2 20.6 29.2 21.8 C29.2 23.1 28.4 24.2 27 24.2 H24.5" fill="none" stroke="#5382A1" stroke-width="1.9" stroke-linecap="round" />
+            <path d="M9.5 30.5 Q18.5 32.8 27.5 30.2" fill="none" stroke="#E76F00" stroke-width="1.8" stroke-linecap="round" />
             <text x="19" y="50" text-anchor="middle" class="cap">Java</text>
           </g>
+          <!-- Spring Boot -->
           <g transform="translate(68,0)">
-            <rect width="38" height="38" rx="6" fill="#FAF8F5" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">02</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Sp</text>
+            <rect width="38" height="38" rx="6" fill="#F2FBF0" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M19 6.5 L29.5 12.5 L29.5 25.5 L19 31.5 L8.5 25.5 L8.5 12.5 Z" fill="#6DB33F" />
+            <path d="M13 24.5 C13 17 18.5 13 25 12.5 C24.5 19.5 20.5 24.8 13 24.5 Z" fill="#FFFFFF" />
+            <path d="M12.5 25 C16.5 21.5 20.5 18 24 13.8" fill="none" stroke="#6DB33F" stroke-width="1.7" stroke-linecap="round" />
             <text x="19" y="50" text-anchor="middle" class="cap">Spring</text>
           </g>
+          <!-- Python -->
           <g transform="translate(136,0)">
-            <rect width="38" height="38" rx="6" fill="#F6D6E3" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">03</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Py</text>
+            <rect width="38" height="38" rx="6" fill="#1E293B" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M18.8 7.5 C13.8 7.5 14 10.5 14 10.5 V13.5 H19.2 V14.8 H11.5 C11.5 14.8 8 14.5 8 19.4 C8 24.3 11 24 11 24 H13.2 V21.2 C13.2 21.2 13 18 16.3 18 H21.6 C21.6 18 24.2 18 24.2 15.2 V10.7 C24.2 10.7 24.6 7.5 18.8 7.5 Z" fill="#3776AB" />
+            <circle cx="16.4" cy="10.4" r="1.2" fill="#FFFFFF" />
+            <path d="M19.2 30.5 C24.2 30.5 24 27.5 24 27.5 V24.5 H18.8 V23.2 H26.5 C26.5 23.2 30 23.5 30 18.6 C30 13.7 27 14 27 14 H24.8 V16.8 C24.8 16.8 25 20 21.7 20 H16.4 C16.4 20 13.8 20 13.8 22.8 V27.3 C13.8 27.3 13.4 30.5 19.2 30.5 Z" fill="#FFD43B" />
+            <circle cx="21.6" cy="27.6" r="1.2" fill="#1E293B" />
             <text x="19" y="50" text-anchor="middle" class="cap">Python</text>
           </g>
+          <!-- Kotlin -->
           <g transform="translate(204,0)">
-            <rect width="38" height="38" rx="6" fill="#EEF3F8" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">04</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Kt</text>
+            <rect width="38" height="38" rx="6" fill="#FAF8F5" stroke="#181A1F" stroke-width="1.4" />
+            <polygon points="9,9 19.5,9 9,19.5" fill="#0095D5" />
+            <polygon points="19.5,9 29,9 9,29 9,19.5" fill="#7F52FF" />
+            <polygon points="19,19 29,29 9,29" fill="#C757BC" />
             <text x="19" y="50" text-anchor="middle" class="cap">Kotlin</text>
           </g>
         </g>
       </g>
     </g>
 
-    <!-- Row 2 -->
+    <!-- Row 2: FRONTEND (HTML5, CSS3, JS) -->
     <g transform="translate(0, 90)">
       <rect x="0" y="7" width="88" height="24" rx="5" fill="#EEF3F8" stroke="#181A1F"
         stroke-width="1.2" />
       <text x="44" y="23" text-anchor="middle" class="cat">FRONTEND</text>
       <g transform="translate(106, 0)">
         <g class="r2">
+          <!-- HTML5 -->
           <g transform="translate(0,0)">
-            <rect width="38" height="38" rx="6" fill="#F6D6E3" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">05</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Ht</text>
+            <rect width="38" height="38" rx="6" fill="#FFF5F2" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M9 7.5 L29 7.5 L27.2 27.2 L19 30.2 L10.8 27.2 Z" fill="#E34F26" />
+            <path d="M19 9.5 H26.9 L25.4 25.8 L19 28.1 Z" fill="#EF652A" />
+            <path d="M13 13 H25 L24.6 16 H16.2 L16.5 19 H24.3 L23.5 25.4 L19 26.8 L14.5 25.4 L14.2 22.2 H17.1 L17.3 23.6 L19 24.1 L20.8 23.6 L21 21.6 H13.8 Z" fill="#FFFFFF" />
             <text x="19" y="50" text-anchor="middle" class="cap">HTML</text>
           </g>
+          <!-- CSS3 -->
           <g transform="translate(68,0)">
-            <rect width="38" height="38" rx="6" fill="#EEF3F8" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">06</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Cs</text>
+            <rect width="38" height="38" rx="6" fill="#F0F7FF" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M9 7.5 L29 7.5 L27.2 27.2 L19 30.2 L10.8 27.2 Z" fill="#1572B6" />
+            <path d="M19 9.5 H26.9 L25.4 25.8 L19 28.1 Z" fill="#33A9DC" />
+            <path d="M13 13 H25 L24.2 25.4 L19 26.9 L13.8 25.4 L13.5 22.1 H16.4 L16.6 23.5 L19 24.2 L21.4 23.5 L21.7 20.8 H14.8 L14.5 18.1 H21.9 L22.1 15.8 H13.3 Z" fill="#FFFFFF" />
             <text x="19" y="50" text-anchor="middle" class="cap">CSS</text>
           </g>
+          <!-- JS -->
           <g transform="translate(136,0)">
-            <rect width="38" height="38" rx="6" fill="#A7D8F5" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">07</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Js</text>
+            <rect width="38" height="38" rx="6" fill="#F7DF1E" stroke="#181A1F" stroke-width="1.4" />
+            <text x="32.5" y="31.5" text-anchor="end" font-family="'Segoe UI','Arial Black',sans-serif" font-size="16" font-weight="900" fill="#181A1F" letter-spacing="-0.8">JS</text>
             <text x="19" y="50" text-anchor="middle" class="cap">JS</text>
           </g>
         </g>
       </g>
     </g>
 
-    <!-- Row 3 -->
+    <!-- Row 3: DATA/FLOW (MongoDB, n8n, REST) -->
     <g transform="translate(0, 146)">
       <rect x="0" y="7" width="88" height="24" rx="5" fill="#EEF3F8" stroke="#181A1F"
         stroke-width="1.2" />
       <text x="44" y="23" text-anchor="middle" class="cat">DATA/FLOW</text>
       <g transform="translate(106, 0)">
         <g class="r3">
+          <!-- MongoDB -->
           <g transform="translate(0,0)">
-            <rect width="38" height="38" rx="6" fill="#EEF3F8" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">08</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Mg</text>
+            <rect width="38" height="38" rx="6" fill="#023430" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M19 6.5 C19 6.5 26 12.6 26 20.5 C26 25.5 22.5 28.6 19.8 29.8 L19 32 L18.2 29.8 C15.5 28.6 12 25.5 12 20.5 C12 12.6 19 6.5 19 6.5 Z" fill="#00ED64" />
+            <path d="M19 9.5 V29.6" stroke="#023430" stroke-width="1.6" stroke-linecap="round" />
             <text x="19" y="50" text-anchor="middle" class="cap">MongoDB</text>
           </g>
+          <!-- n8n -->
           <g transform="translate(68,0)">
-            <rect width="38" height="38" rx="6" fill="#F6D6E3" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">09</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">n8</text>
+            <rect width="38" height="38" rx="6" fill="#FFF2F5" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M11 19 H17 C20 19 20 13 24 13 H26" fill="none" stroke="#EA4B71" stroke-width="2.2" stroke-linecap="round" />
+            <path d="M17 19 C20 19 20 25 24 25 H26" fill="none" stroke="#EA4B71" stroke-width="2.2" stroke-linecap="round" />
+            <circle cx="9.5" cy="19" r="3" fill="#FAF8F5" stroke="#EA4B71" stroke-width="2.2" />
+            <circle cx="17" cy="19" r="2.6" fill="#EA4B71" />
+            <circle cx="27.5" cy="13" r="3" fill="#FAF8F5" stroke="#EA4B71" stroke-width="2.2" />
+            <circle cx="27.5" cy="25" r="3" fill="#FAF8F5" stroke="#EA4B71" stroke-width="2.2" />
             <text x="19" y="50" text-anchor="middle" class="cap">n8n</text>
           </g>
+          <!-- REST API -->
           <g transform="translate(136,0)">
-            <rect width="38" height="38" rx="6" fill="#A7D8F5" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">10</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Ra</text>
+            <rect width="38" height="38" rx="6" fill="#EEF3F8" stroke="#181A1F" stroke-width="1.4" />
+            <text x="19" y="23.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" font-weight="900" fill="#181A1F">{ }</text>
+            <path d="M13 29 H25 M22 26.5 L25 29 L22 31.5" fill="none" stroke="#2563EB" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
             <text x="19" y="50" text-anchor="middle" class="cap">REST</text>
           </g>
         </g>
       </g>
     </g>
 
-    <!-- Row 4 -->
+    <!-- Row 4: DESIGN/OPS (Figma, Photoshop, Illustrator, Docker, Git) -->
     <g transform="translate(0, 202)">
       <rect x="0" y="7" width="88" height="24" rx="5" fill="#EEF3F8" stroke="#181A1F"
         stroke-width="1.2" />
       <text x="44" y="23" text-anchor="middle" class="cat">DESIGN/OPS</text>
       <g transform="translate(106, 0)">
         <g class="r4">
+          <!-- Figma -->
           <g transform="translate(0,0)">
-            <rect width="38" height="38" rx="6" fill="#F6D6E3" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">11</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Fg</text>
+            <rect width="38" height="38" rx="6" fill="#1E1E1E" stroke="#181A1F" stroke-width="1.4" />
+            <path d="M15.5 8 H19 V15 H15.5 A3.5 3.5 0 0 1 15.5 8 Z" fill="#F24E1E" />
+            <path d="M19 8 H22.5 A3.5 3.5 0 0 1 22.5 15 H19 Z" fill="#FF7262" />
+            <path d="M15.5 15 H19 V22 H15.5 A3.5 3.5 0 0 1 15.5 15 Z" fill="#A259FF" />
+            <circle cx="22.5" cy="18.5" r="3.5" fill="#1ABCFE" />
+            <path d="M15.5 22 H19 V25.5 A3.5 3.5 0 1 1 15.5 22 Z" fill="#0ACF83" />
             <text x="19" y="50" text-anchor="middle" class="cap">Figma</text>
           </g>
+          <!-- Photoshop -->
           <g transform="translate(68,0)">
-            <rect width="38" height="38" rx="6" fill="#A7D8F5" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">12</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Ps</text>
+            <rect width="38" height="38" rx="6" fill="#001E36" stroke="#181A1F" stroke-width="1.4" />
+            <text x="19" y="25" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#31A8FF" letter-spacing="-0.5">Ps</text>
             <text x="19" y="50" text-anchor="middle" class="cap">Photoshop</text>
           </g>
+          <!-- Illustrator -->
           <g transform="translate(136,0)">
-            <rect width="38" height="38" rx="6" fill="#FAF8F5" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">13</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Ai</text>
+            <rect width="38" height="38" rx="6" fill="#330000" stroke="#181A1F" stroke-width="1.4" />
+            <text x="19" y="25" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="800" fill="#FF9A00" letter-spacing="-0.5">Ai</text>
             <text x="19" y="50" text-anchor="middle" class="cap">Illustr.</text>
           </g>
+          <!-- Docker -->
           <g transform="translate(204,0)">
-            <rect width="38" height="38" rx="6" fill="#EEF3F8" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">14</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Dk</text>
+            <rect width="38" height="38" rx="6" fill="#F0F9FF" stroke="#181A1F" stroke-width="1.4" />
+            <g fill="#2496ED">
+              <rect x="11.2" y="15.2" width="3.2" height="2.8" rx="0.4" />
+              <rect x="15.1" y="15.2" width="3.2" height="2.8" rx="0.4" />
+              <rect x="19"   y="15.2" width="3.2" height="2.8" rx="0.4" />
+              <rect x="22.9" y="15.2" width="3.2" height="2.8" rx="0.4" />
+              <rect x="15.1" y="11.7" width="3.2" height="2.8" rx="0.4" />
+              <rect x="19"   y="11.7" width="3.2" height="2.8" rx="0.4" />
+              <rect x="19"   y="8.2"  width="3.2" height="2.8" rx="0.4" />
+              <path d="M7.5 19.2 H27.2 C28.2 17.5 29.7 17.1 30.9 17.7 C31.4 18.8 30.8 20.1 29.7 20.7 C28.2 26 23.6 29 17.6 29 C11.4 29 7.6 25.4 7.5 19.2 Z" />
+            </g>
+            <circle cx="13.5" cy="23.5" r="1.1" fill="#FFFFFF" />
             <text x="19" y="50" text-anchor="middle" class="cap">Docker</text>
           </g>
+          <!-- Git -->
           <g transform="translate(272,0)">
-            <rect width="38" height="38" rx="6" fill="#F6D6E3" stroke="#181A1F" stroke-width="1.3" />
-            <text x="5" y="10" class="num">15</text>
-            <text x="19" y="26" text-anchor="middle" class="sym">Gt</text>
+            <rect width="38" height="38" rx="6" fill="#FFF5F3" stroke="#181A1F" stroke-width="1.4" />
+            <rect x="10.2" y="10.2" width="17.6" height="17.6" rx="3" transform="rotate(45 19 19)" fill="#F05032" />
+            <line x1="15.5" y1="12.5" x2="22.5" y2="19.5" stroke="#FFFFFF" stroke-width="2" />
+            <line x1="18.2" y1="15.2" x2="18.2" y2="24" stroke="#FFFFFF" stroke-width="2" />
+            <circle cx="18.2" cy="15.2" r="2.2" fill="#FFFFFF" />
+            <circle cx="18.2" cy="24"   r="2.2" fill="#FFFFFF" />
+            <circle cx="22.5" cy="19.5" r="2.2" fill="#FFFFFF" />
             <text x="19" y="50" text-anchor="middle" class="cap">Git</text>
           </g>
         </g>
