@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 56" width="212" height="56" role="img" aria-label="Projects and Repositories">
+  <title>Projects — Repositories</title>
+  <style>
+    .t { font-family: 'JetBrains Mono', Consolas, 'SFMono-Regular', 'Courier New', monospace; font-size: 14.5px; font-weight: 800; letter-spacing: 1.4px; fill: #181A1F; }
+    .a { animation: nudge 1.8s ease-in-out 0.3s infinite; }
+    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+  </style>
+  <rect x="2" y="8" width="202" height="44" rx="8" fill="#D9E2EC" />
+  <rect x="6" y="4" width="202" height="44" rx="8" fill="#FAF8F5" stroke="#181A1F" stroke-width="1.5" />
+  <g transform="translate(22, 15)">
+    <path d="M1 4 C1 2.3 2.3 1 4 1 L9.5 1 L12 4 L21 4 C22.7 4 24 5.3 24 7 L24 19 C24 20.7 22.7 22 21 22 L4 22 C2.3 22 1 20.7 1 19 Z" fill="#F6D6E3" stroke="#181A1F" stroke-width="1.6" stroke-linejoin="round" />
+    <line x1="2" y1="9" x2="23" y2="9" stroke="#181A1F" stroke-width="1.4" />
+  </g>
+  <text x="58" y="31" class="t">PROJECTS</text>
+  <g transform="translate(174, 20)">
+    <path class="a" d="M0 0 L7 6 L0 12" fill="none" stroke="#181A1F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
