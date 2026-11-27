@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="100%" height="100%">
+  <defs>
+    <linearGradient id="c2Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E0A1A" />
+      <stop offset="100%" stop-color="#1A1128" />
+    </linearGradient>
+    <linearGradient id="c2Accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E879F9" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="250" rx="14" fill="url(#c2Bg)" />
+  <rect x="1.5" y="1.5" width="597" height="247" rx="13" fill="none" stroke="url(#c2Accent)" stroke-width="1.5" stroke-opacity="0.65" />
+  <rect x="0" y="0" width="600" height="5" rx="2" fill="url(#c2Accent)" />
+
+  <!-- Track Header -->
+  <rect x="24" y="24" width="110" height="24" rx="12" fill="#E879F9" fill-opacity="0.18" stroke="#E879F9" stroke-width="1" />
+  <text x="79" y="40" text-anchor="middle" fill="#F0ABFC" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5">TRACK 02</text>
+  <text x="576" y="40" text-anchor="end" fill="#64748B" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.5">CHOREOGRAPHY ✦</text>
+
+  <!-- Title & Description -->
+  <text x="24" y="84" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="800" letter-spacing="0.5">
+    n8n Flow Choreography
+  </text>
+  <text x="24" y="112" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">
+    Event-driven automation pipelines that connect webhooks, APIs,
+  </text>
+  <text x="24" y="132" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">
+    AI agents, and databases so operations run hands-free 24/7.
+  </text>
+
+  <!-- Mockup Node Flow Box -->
+  <rect x="24" y="152" width="552" height="74" rx="8" fill="#080610" stroke="#2E2348" stroke-width="1" />
+  <!-- Flow Nodes -->
+  <rect x="42" y="172" width="118" height="34" rx="6" fill="#1D1432" stroke="#FF2A85" stroke-width="1.2" />
+  <text x="101" y="193" text-anchor="middle" fill="#F9A8D4" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700">⚡ Webhook</text>
+  <line x1="160" y1="189" x2="196" y2="189" stroke="#E879F9" stroke-width="1.5" stroke-dasharray="3 2" />
+
+  <rect x="196" y="172" width="144" height="34" rx="6" fill="#1D1432" stroke="#C084FC" stroke-width="1.2" />
+  <text x="268" y="193" text-anchor="middle" fill="#E9D5FF" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700">🔄 n8n Router</text>
+  <line x1="340" y1="189" x2="376" y2="189" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3 2" />
+
+  <rect x="376" y="172" width="180" height="34" rx="6" fill="#1D1432" stroke="#38BDF8" stroke-width="1.2" />
+  <text x="466" y="193" text-anchor="middle" fill="#BAE6FD" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700">✓ Auto-Dispatched</text>
+</svg>

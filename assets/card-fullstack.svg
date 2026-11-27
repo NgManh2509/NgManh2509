@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="100%" height="100%">
+  <defs>
+    <linearGradient id="c4Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E0A1A" />
+      <stop offset="100%" stop-color="#18122B" />
+    </linearGradient>
+    <linearGradient id="c4Accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#FF2A85" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="250" rx="14" fill="url(#c4Bg)" />
+  <rect x="1.5" y="1.5" width="597" height="247" rx="13" fill="none" stroke="url(#c4Accent)" stroke-width="1.5" stroke-opacity="0.65" />
+  <rect x="0" y="0" width="600" height="5" rx="2" fill="url(#c4Accent)" />
+
+  <!-- Track Header -->
+  <rect x="24" y="24" width="110" height="24" rx="12" fill="#818CF8" fill-opacity="0.18" stroke="#818CF8" stroke-width="1" />
+  <text x="79" y="40" text-anchor="middle" fill="#A5B4FC" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5">TRACK 04</text>
+  <text x="576" y="40" text-anchor="end" fill="#64748B" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.5">STAGE OPS ✦</text>
+
+  <!-- Title & Description -->
+  <text x="24" y="84" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="800" letter-spacing="0.5">
+    Containerized Stage &amp; CI/CD
+  </text>
+  <text x="24" y="112" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">
+    Self-hosted Docker environments, automated GitHub Actions
+  </text>
+  <text x="24" y="132" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">
+    workflows, and responsive web frontends ready for production.
+  </text>
+
+  <!-- Mockup Deployment Status Box -->
+  <rect x="24" y="152" width="552" height="74" rx="8" fill="#080610" stroke="#2E2348" stroke-width="1" />
+  <text x="42" y="182" fill="#A5B4FC" font-family="'SF Mono', Consolas, monospace" font-size="12" font-weight="700">
+    $ docker compose up -d --build
+  </text>
+  <text x="42" y="204" fill="#94A3B8" font-family="'SF Mono', Consolas, monospace" font-size="11.5">
+    Docker · Git · GitHub Actions · HTML5/CSS3/JS   <tspan fill="#4ADE80" font-weight="700">● STAGE LIVE</tspan>
+  </text>
+</svg>

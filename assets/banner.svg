@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="stageBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090612" />
+      <stop offset="45%" stop-color="#140C24" />
+      <stop offset="100%" stop-color="#0B0816" />
+    </linearGradient>
+    <linearGradient id="holoGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF2A85" />
+      <stop offset="35%" stop-color="#E879F9" />
+      <stop offset="70%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="holoText" x1="0%" y1="0%" x2="100%" y2="20%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="45%" stop-color="#F5D0FE" />
+      <stop offset="75%" stop-color="#F472B6" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <radialGradient id="pinkSpot" cx="22%" cy="35%" r="50%">
+      <stop offset="0%" stop-color="#FF2A85" stop-opacity="0.24" />
+      <stop offset="60%" stop-color="#A855F7" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyanSpot" cx="82%" cy="65%" r="48%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.22" />
+      <stop offset="60%" stop-color="#818CF8" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="discGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1E1633" />
+      <stop offset="55%" stop-color="#2E1C44" />
+      <stop offset="75%" stop-color="#FF2A85" stop-opacity="0.45" />
+      <stop offset="92%" stop-color="#38BDF8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.8" />
+    </radialGradient>
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#F472B6" stroke-width="0.6" stroke-opacity="0.06" />
+    </pattern>
+  </defs>
+
+  <!-- Stage Base & Lighting -->
+  <rect width="1200" height="360" rx="16" fill="url(#stageBg)" />
+  <rect width="1200" height="360" rx="16" fill="url(#cyberGrid)" />
+  <rect width="1200" height="360" rx="16" fill="url(#pinkSpot)" />
+  <rect width="1200" height="360" rx="16" fill="url(#cyanSpot)" />
+
+  <!-- Outer Holographic Border -->
+  <rect x="2" y="2" width="1196" height="356" rx="15" fill="none" stroke="url(#holoGrad)" stroke-width="2" stroke-opacity="0.7" />
+  <rect x="18" y="18" width="1164" height="324" rx="10" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-opacity="0.14" />
+
+  <!-- Top Header Bar (K-Pop Teaser Metadata) -->
+  <text x="44" y="48" fill="#F472B6" font-family="'SF Mono', 'Fira Code', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="3.5">
+    ✦ NGMANH STUDIO  //  OFFICIAL PRODUCER PROFILE
+  </text>
+  <text x="1156" y="48" text-anchor="end" fill="#94A3B8" font-family="'SF Mono', 'Fira Code', Consolas, monospace" font-size="11" letter-spacing="2.5">
+    ALBUM VER. [25.09]  ·  응우옌 만
+  </text>
+  <line x1="44" y1="62" x2="1156" y2="62" stroke="url(#holoGrad)" stroke-width="1" stroke-opacity="0.35" />
+
+  <!-- Decorative Holographic CD / Vinyl Concept Art on Right -->
+  <g transform="translate(975, 188)">
+    <!-- Outer Glow Ring -->
+    <circle cx="0" cy="0" r="118" fill="none" stroke="url(#holoGrad)" stroke-width="1.5" stroke-dasharray="6 4" stroke-opacity="0.6" />
+    <circle cx="0" cy="0" r="98" fill="url(#discGrad)" stroke="#F472B6" stroke-width="1.5" stroke-opacity="0.5" />
+    <circle cx="0" cy="0" r="72" fill="none" stroke="#FFFFFF" stroke-width="0.6" stroke-opacity="0.25" />
+    <circle cx="0" cy="0" r="52" fill="none" stroke="#38BDF8" stroke-width="0.8" stroke-opacity="0.35" />
+    <!-- Holographic Sheen Lines -->
+    <path d="M -68 -68 L 68 68" stroke="#FFFFFF" stroke-width="12" stroke-opacity="0.07" />
+    <path d="M -68 68 L 68 -68" stroke="#FF2A85" stroke-width="10" stroke-opacity="0.08" />
+    <!-- Center Label -->
+    <circle cx="0" cy="0" r="30" fill="#090612" stroke="url(#holoGrad)" stroke-width="2" />
+    <text x="0" y="-3" text-anchor="middle" fill="#F472B6" font-family="'SF Mono', Consolas, monospace" font-size="8" font-weight="700" letter-spacing="1.5">SIDE A</text>
+    <text x="0" y="9" text-anchor="middle" fill="#FFFFFF" font-family="'SF Mono', Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1">2509</text>
+    <circle cx="0" cy="0" r="5" fill="#140C24" stroke="#E879F9" stroke-width="1" />
+    <!-- Sparkles around Disc -->
+    <path d="M -115 -55 L -111 -43 L -99 -39 L -111 -35 L -115 -23 L -119 -35 L -131 -39 L -119 -43 Z" fill="#F472B6" />
+    <path d="M 105 -85 L 108 -76 L 117 -73 L 108 -70 L 105 -61 L 102 -70 L 93 -73 L 102 -76 Z" fill="#38BDF8" />
+    <path d="M 88 85 L 90 91 L 96 93 L 90 95 L 88 101 L 86 95 L 80 93 L 86 91 Z" fill="#E879F9" />
+  </g>
+
+  <!-- Left Content: Concept Tag Pill -->
+  <rect x="44" y="84" width="350" height="28" rx="14" fill="#FF2A85" fill-opacity="0.16" stroke="#FF2A85" stroke-width="1" />
+  <text x="62" y="102" fill="#F9A8D4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11.5" font-weight="700" letter-spacing="2">
+    ★  MAIN BACKEND  ·  LEAD AUTOMATION  ·  VISUAL
+  </text>
+
+  <!-- Main Artist / Engineer Name -->
+  <text x="44" y="176" fill="url(#holoText)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="900" letter-spacing="3">
+    NGUYỄN MẠNH
+  </text>
+
+  <!-- Sub-headline with Hangul & English -->
+  <text x="46" y="212" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" font-weight="500" letter-spacing="0.8">
+    Engineering systems that hit every beat — <tspan fill="#F472B6" font-weight="700">Spring Boot</tspan>, <tspan fill="#C084FC" font-weight="700">n8n Choreography</tspan> &amp; <tspan fill="#38BDF8" font-weight="700">UI Visuals</tspan>.
+  </text>
+
+  <!-- Position / Concept Chips -->
+  <g transform="translate(44, 236)">
+    <rect x="0" y="0" width="196" height="32" rx="6" fill="#18112B" stroke="#F472B6" stroke-width="1" stroke-opacity="0.6" />
+    <text x="98" y="20" text-anchor="middle" fill="#F8FAFC" font-family="'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600">01 // BACKEND PRODUCER</text>
+
+    <rect x="210" y="0" width="218" height="32" rx="6" fill="#18112B" stroke="#C084FC" stroke-width="1" stroke-opacity="0.6" />
+    <text x="319" y="20" text-anchor="middle" fill="#F8FAFC" font-family="'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600">02 // n8n FLOW DIRECTOR</text>
+
+    <rect x="442" y="0" width="210" height="32" rx="6" fill="#18112B" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6" />
+    <text x="547" y="20" text-anchor="middle" fill="#F8FAFC" font-family="'SF Mono', Consolas, monospace" font-size="11.5" font-weight="600">03 // CREATIVE VISUAL</text>
+  </g>
+
+  <!-- Bottom Footer Bar: Audio Equalizer & Barcode -->
+  <line x1="44" y1="296" x2="820" y2="296" stroke="#FFFFFF" stroke-width="0.6" stroke-opacity="0.15" />
+
+  <!-- Soundwave Equalizer Bars -->
+  <g transform="translate(44, 308)" fill="url(#holoGrad)">
+    <rect x="0" y="8" width="3" height="12" rx="1.5" />
+    <rect x="6" y="2" width="3" height="18" rx="1.5" />
+    <rect x="12" y="6" width="3" height="14" rx="1.5" />
+    <rect x="18" y="0" width="3" height="20" rx="1.5" />
+    <rect x="24" y="4" width="3" height="16" rx="1.5" />
+    <rect x="30" y="9" width="3" height="11" rx="1.5" />
+    <rect x="36" y="3" width="3" height="17" rx="1.5" />
+    <rect x="42" y="7" width="3" height="13" rx="1.5" />
+    <rect x="48" y="1" width="3" height="19" rx="1.5" />
+    <rect x="54" y="5" width="3" height="15" rx="1.5" />
+  </g>
+  <text x="114" y="323" fill="#94A3B8" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.5">
+    NOW PLAYING: FULL-STACK ARCHITECTURE (FEAT. JAVA, PYTHON &amp; n8n) — 128 BPM
+  </text>
+
+  <!-- K-Pop Album Barcode Stamp -->
+  <g transform="translate(1070, 302)" fill="#E2E8F0" fill-opacity="0.65">
+    <rect x="0" y="0" width="2" height="22" />
+    <rect x="5" y="0" width="4" height="22" />
+    <rect x="12" y="0" width="1.5" height="22" />
+    <rect x="16" y="0" width="3" height="22" />
+    <rect x="22" y="0" width="1" height="22" />
+    <rect x="26" y="0" width="5" height="22" />
+    <rect x="34" y="0" width="2" height="22" />
+    <rect x="39" y="0" width="1.5" height="22" />
+    <rect x="44" y="0" width="4" height="22" />
+    <rect x="51" y="0" width="2" height="22" />
+    <rect x="56" y="0" width="3" height="22" />
+    <rect x="62" y="0" width="1.5" height="22" />
+    <rect x="66" y="0" width="4" height="22" />
+    <rect x="73" y="0" width="2" height="22" />
+    <rect x="78" y="0" width="3" height="22" />
+    <rect x="84" y="0" width="2" height="22" />
+  </g>
+</svg>

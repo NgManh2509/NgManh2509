@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 250" width="100%" height="100%">
+  <defs>
+    <linearGradient id="c3Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E0A1A" />
+      <stop offset="100%" stop-color="#13182B" />
+    </linearGradient>
+    <linearGradient id="c3Accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="250" rx="14" fill="url(#c3Bg)" />
+  <rect x="1.5" y="1.5" width="597" height="247" rx="13" fill="none" stroke="url(#c3Accent)" stroke-width="1.5" stroke-opacity="0.65" />
+  <rect x="0" y="0" width="600" height="5" rx="2" fill="url(#c3Accent)" />
+
+  <!-- Track Header -->
+  <rect x="24" y="24" width="110" height="24" rx="12" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="1" />
+  <text x="79" y="40" text-anchor="middle" fill="#7DD3FC" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.5">TRACK 03</text>
+  <text x="576" y="40" text-anchor="end" fill="#64748B" font-family="'SF Mono', Consolas, monospace" font-size="11" letter-spacing="1.5">VISUAL CENTER ★</text>
+
+  <!-- Title & Description -->
+  <text x="24" y="84" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" font-weight="800" letter-spacing="0.5">
+    Visual Concept &amp; UI/UX
+  </text>
+  <text x="24" y="112" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">
+    Crafting cohesive design systems, interface prototypes, and
+  </text>
+  <text x="24" y="132" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5">
+    high-contrast graphic assets that bridge art direction and code.
+  </text>
+
+  <!-- Mockup Palette & Design Box -->
+  <rect x="24" y="152" width="552" height="74" rx="8" fill="#080610" stroke="#2E2348" stroke-width="1" />
+  <circle cx="58" cy="189" r="14" fill="#FF2A85" />
+  <circle cx="84" cy="189" r="14" fill="#A855F7" />
+  <circle cx="110" cy="189" r="14" fill="#38BDF8" />
+  <text x="144" y="185" fill="#F8FAFC" font-family="'SF Mono', Consolas, monospace" font-size="12" font-weight="700">Figma · Photoshop · Illustrator</text>
+  <text x="144" y="203" fill="#94A3B8" font-family="'SF Mono', Consolas, monospace" font-size="11">Design Tokens · Component Kits · Web Aesthetics</text>
+</svg>
