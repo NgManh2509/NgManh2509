@@ -68,23 +68,25 @@ Plus **n8n**, Webhook Orchestration, RESTful API Design, GitHub Actions, and Edi
 
 </details>
 
-<details>
-  <summary><samp><b>✦ [ TELEMETRY ] Live GitHub Activity & Contribution Matrix</b></samp></summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NgManh2509&theme=default" alt="Nguyễn Mạnh's GitHub Stats" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NgManh2509&theme=default" alt="Top Languages by Repo" width="32%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NgManh2509&theme=default" alt="Most Committed Languages" width="32%" />
-    <br/><br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NgManh2509/NgManh2509/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NgManh2509/NgManh2509/output/github-contribution-grid-snake.svg" />
-      <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NgManh2509/NgManh2509/output/github-contribution-grid-snake.svg" width="100%" />
-    </picture>
-    <br/><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NgManh2509&theme=default" alt="Detailed contribution timeline for NgManh2509" width="100%" />
-  </div>
-</details>
+## <samp>✦ [ 04 ]</samp> GitHub Statistics & Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NgManh2509&theme=default" alt="Nguyễn Mạnh's GitHub Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NgManh2509&theme=default" alt="Top Languages by Repo" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NgManh2509&theme=default" alt="Most Committed Languages" width="32%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NgManh2509/NgManh2509/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NgManh2509/NgManh2509/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NgManh2509/NgManh2509/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NgManh2509&theme=default" alt="Detailed contribution timeline for NgManh2509" width="100%" />
+</div>
 
 ---
 
