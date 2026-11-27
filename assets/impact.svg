@@ -1,43 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 135" width="100%" height="100%">
-  <defs>
-    <linearGradient id="impBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0B0714" />
-      <stop offset="50%" stop-color="#170E29" />
-      <stop offset="100%" stop-color="#0B0714" />
-    </linearGradient>
-    <linearGradient id="impBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF2A85" />
-      <stop offset="50%" stop-color="#C084FC" />
-      <stop offset="100%" stop-color="#38BDF8" />
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 148" width="100%" height="100%">
+  <!-- Airy Porcelain Base (100% Flat, Crisp 1px Silver Border) -->
+  <rect width="1200" height="148" rx="8" fill="#FAF8F5" />
+  <rect x="0.5" y="0.5" width="1199" height="147" rx="8" fill="none" stroke="#D9E2EC" stroke-width="1" />
 
-  <rect width="1200" height="135" rx="12" fill="url(#impBg)" />
-  <rect x="1.5" y="1.5" width="1197" height="132" rx="11" fill="none" stroke="url(#impBorder)" stroke-width="1.5" stroke-opacity="0.7" />
+  <!-- Top Y2K Telemetry Header Strip -->
+  <path d="M 1 8 C 1 4.13 4.13 1 8 1 L 1192 1 C 1195.87 1 1199 4.13 1199 8 L 1199 34 L 1 34 Z" fill="#EEF3F8" />
+  <line x1="1" y1="34" x2="1199" y2="34" stroke="#D9E2EC" stroke-width="1" />
+  <text x="24" y="21" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5">
+    ✦  [ SYSTEM TELEMETRY  •  PRODUCTION INDEX ]
+  </text>
+  <text x="1176" y="21" text-anchor="end" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" letter-spacing="1.5">
+    [ 2026.ARCHIVE ]
+  </text>
 
-  <!-- Dividers -->
-  <line x1="240" y1="24" x2="240" y2="111" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.1" />
-  <line x1="480" y1="24" x2="480" y2="111" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.1" />
-  <line x1="720" y1="24" x2="720" y2="111" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.1" />
-  <line x1="960" y1="24" x2="960" y2="111" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.1" />
+  <!-- Crisp 1px Vertical Column Dividers -->
+  <line x1="240" y1="34" x2="240" y2="147" stroke="#D9E2EC" stroke-width="1" />
+  <line x1="480" y1="34" x2="480" y2="147" stroke="#D9E2EC" stroke-width="1" />
+  <line x1="720" y1="34" x2="720" y2="147" stroke="#D9E2EC" stroke-width="1" />
+  <line x1="960" y1="34" x2="960" y2="147" stroke="#D9E2EC" stroke-width="1" />
 
   <!-- Stat 1 -->
-  <text x="120" y="64" text-anchor="middle" fill="#FF2A85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="900">3-IN-1</text>
-  <text x="120" y="92" text-anchor="middle" fill="#E2E8F0" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1">BACKEND · FLOW · DESIGN</text>
+  <rect x="78" y="48" width="84" height="34" rx="4" fill="#EEF3F8" stroke="#D9E2EC" stroke-width="1" />
+  <text x="120" y="73" text-anchor="middle" fill="#181A1F" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-size="24">3-in-1</text>
+  <text x="120" y="114" text-anchor="middle" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1">BACKEND • FLOW • UI</text>
 
   <!-- Stat 2 -->
-  <text x="360" y="64" text-anchor="middle" fill="#E879F9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="900">24/7</text>
-  <text x="360" y="92" text-anchor="middle" fill="#E2E8F0" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1">AUTONOMOUS n8n PIPELINES</text>
+  <rect x="318" y="48" width="84" height="34" rx="4" fill="#F6D6E3" stroke="#D9E2EC" stroke-width="1" />
+  <text x="360" y="73" text-anchor="middle" fill="#181A1F" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-size="24">24 / 7</text>
+  <text x="360" y="114" text-anchor="middle" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1">AUTONOMOUS n8n FLOWS</text>
 
   <!-- Stat 3 -->
-  <text x="600" y="64" text-anchor="middle" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="900">15+</text>
-  <text x="600" y="92" text-anchor="middle" fill="#E2E8F0" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1">DEV &amp; CREATIVE TOOLS</text>
+  <rect x="558" y="48" width="84" height="34" rx="4" fill="#A7D8F5" stroke="#D9E2EC" stroke-width="1" />
+  <text x="600" y="73" text-anchor="middle" fill="#181A1F" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-size="24">15+</text>
+  <text x="600" y="114" text-anchor="middle" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1">CORE DEV &amp; DESIGN TOOLS</text>
 
   <!-- Stat 4 -->
-  <text x="840" y="64" text-anchor="middle" fill="#818CF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="900">100%</text>
-  <text x="840" y="92" text-anchor="middle" fill="#E2E8F0" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1">SELF-HOSTABLE WORKFLOWS</text>
+  <rect x="798" y="48" width="84" height="34" rx="4" fill="#EEF3F8" stroke="#D9E2EC" stroke-width="1" />
+  <text x="840" y="73" text-anchor="middle" fill="#181A1F" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-size="24">100%</text>
+  <text x="840" y="114" text-anchor="middle" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1">SELF-HOSTABLE PIPELINES</text>
 
   <!-- Stat 5 -->
-  <text x="1080" y="64" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="34" font-weight="900">ZERO</text>
-  <text x="1080" y="92" text-anchor="middle" fill="#E2E8F0" font-family="'SF Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1">MANUAL BOTTLENECKS</text>
+  <rect x="1038" y="48" width="84" height="34" rx="4" fill="#F6D6E3" stroke="#D9E2EC" stroke-width="1" />
+  <text x="1080" y="73" text-anchor="middle" fill="#181A1F" font-family="Georgia, 'Playfair Display', 'Times New Roman', serif" font-size="24">Zero</text>
+  <text x="1080" y="114" text-anchor="middle" fill="#64748B" font-family="'JetBrains Mono', 'SF Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1">MANUAL BOTTLENECKS</text>
 </svg>
